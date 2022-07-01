@@ -18,7 +18,7 @@ const Navbar = ({toggle}) => {
     <>
       <Nav>
         <NavbarContainer>
-          <NavLogo to='/'>Cash 2.0</NavLogo>
+          <NavLogo to='/'>InstaFi</NavLogo>
           <MobileIcon onClick={toggle}>
             <FaBars />
           </MobileIcon>
