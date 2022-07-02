@@ -9,10 +9,9 @@ export const homeObjOne = {
   buttonLabel: 'Get started',
   imgStart: false,
   img: require('../../images/undraw_mobile_pay.svg').default,
-  alt: 'Car',
-  //dark: true,
+  alt: 'Mobile phone',
   primary: true,
-  darkText: false,
+  darkText: false
 }
 
 export const homeObjTwo = {
@@ -27,24 +26,22 @@ export const homeObjTwo = {
   imgStart: true,
   img: require('../../images/undraw_savings.svg').default,
   alt: 'Piggy Bank',
-  //dark: false,
   primary: false,
-  darkText: true,
+  darkText: true
 }
 
 export const homeObjThree = {
-  id: 'services',
+  id: 'signup',
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Lightening fast speed',
-  headLine: 'Unlimited Transactions with zero fees',
-  description: 'Get access to our exclusive app that allows you to send unlimited transactions without any fees charged',
+  topLine: 'Transfer your account',
+  headLine: 'Break free from your bank and we will take care of the rest',
+  description: 'Let us cover the fees associated with the move and discover the InstaFi difference',
   buttonLabel: 'Get started',
   imgStart: false,
   img: require('../../images/undraw_transfer_money.svg').default,
-  alt: 'Car',
-  // dark: false,
+  alt: 'Transfer',
   primary: true,
-  darkText: false,
+  darkText: false
 }
