@@ -18,7 +18,7 @@ const onHover = () => {
       </HeroBg>
 
       <HeroContent>
-        <HeroH1>Virtual Banking just got faster</HeroH1>
+        <HeroH1>Virtual Banking Just Got Faster</HeroH1>
         <HeroP>
           Sign up for a new account and receive $300 in credit
         </HeroP>
